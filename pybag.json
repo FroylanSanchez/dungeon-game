@@ -1,0 +1,11 @@
+{
+    "app_name": "dungeongame",
+    "version": "1.0",
+    "entrypoint": "main.py",
+    "python_version": "3.12",
+    "cdn": "https://pygame-web.github.io/archives/0.9/",
+    "extra_files": [
+        "pythonrc.py",
+        "images/"
+    ]
+}
